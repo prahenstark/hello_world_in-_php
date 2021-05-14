@@ -1,4 +1,4 @@
-# hello_world_in-_php
+# hello_world_in_php
 For MLH hackathon
 <?php
   echo "Hello World!";
